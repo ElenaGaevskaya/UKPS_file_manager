@@ -10,14 +10,14 @@ filemanager.py - файл с файловым менеджером.
 
 Фикстура для создания папки выглядит так:
 
-![screenshot](image/1.png)
+![screenshot](testing_file_manager/image/1.png)
 
-![screenshot](image/2.png)
+![screenshot](testing_file_manager/image/2.png)
 
 Возвращение значения True в случае положительного прохождения тестов и сравнить ее с предустановленным значением.
 
 Результат тестирования pytest:
 
-![screenshot](image/3.png)
+![screenshot](testing_file_manager/image/3.png)
 
 Вывод - pytest оказался довольно удобным инструментом для тестирования. Удобство заключается в том, что его можно подстроить под любой тип программы.
